@@ -1,0 +1,19 @@
+{
+  "name": "cap08",
+  "version": "1.0.0",
+  "description": "Exemplo do capítulo 08",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "nodemon": "nodemon app.js"
+  },
+  "keywords": [
+    "livro",
+    "node"
+  ],
+  "author": "Wendell Alves",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  }
+}
